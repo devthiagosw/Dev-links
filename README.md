@@ -49,4 +49,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Thiago Sartori Weirich# Linktree2
+Feito com ♥ by Thiago Sartori Weirich
